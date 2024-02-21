@@ -84,11 +84,11 @@ const SingleBlog = () => {
                                                                         </cite>
                                                                     </blockquote>
                                                                     <p>Lorem ipsum dolor, tatem repudiandae veniam itaque molestiae cupiditate possimus! Quaerat, ipsum libero. Dolor harum voluptates dolorum inventore atque voluptatibus! A, doloremque. Cumque assumenda eaque quae ipsa nam accusamus, voluptatum et quidem.</p>
-                                                                    <img src="/src/assets/images/blog/single/01.jpg" alt="bidyut" />
+                                                                    <img src="https://github.com/Bidyut-Sikder/frontEcommerce/blob/master/src/assets/images/blog/single/01.jpg?raw=true" alt="bidyut" />
                                                                     <p>Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium, tempore. consectetur adipisicing elit. Harum consequuntur, magnam doloribus optio blanditiis necessitatibus enim est aperiam autem excepturi!</p>
 
                                                                     <div className="video-thumb">
-                                                                        <img src="/src/assets/images/blog/single/02.jpg" alt="bidyut" />
+                                                                        <img src="https://github.com/Bidyut-Sikder/frontEcommerce/blob/master/src/assets/images/blog/single/02.jpg?raw=true" alt="bidyut" />
                                                                         <a target='blank' className='video-button popup' href="https://www.youtube.com/watch?v=FP8-VAH3zi0"><i className='icofont-ui-play'></i></a>
                                                                     </div>
 
