@@ -25,7 +25,7 @@ const SingleProduct = () => {
             const resData = await response.json()
             setProduct(resData)
 
-            //console.log(resData)
+            console.log(resData)
         })()
 
     }, [])
