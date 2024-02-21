@@ -8,6 +8,58 @@ const NavItems = () => {
   const [socialToggle, setSocialToggle] = useState(false);
   const [headerFixed, setHeaderFixed] = useState(false);
 
+  
+  const [home, setHome] = useState(true)
+  const [shop, setShop] = useState(false)
+  const [blog, setBlog] = useState(false)
+  const [about, setAbout] = useState(false)
+  const [contact, setContact] = useState(false)
+
+
+
+
+
+  const shopSetting = () => {
+    setAbout(false)
+    setBlog(false)
+    setContact(false)
+    setShop(true)
+    setHome(false)
+  }
+
+  const homeSetting = () => {
+    setAbout(false)
+    setBlog(false)
+    setContact(false)
+    setShop(false)
+    setHome(true)
+  }
+
+
+  const blogSetting = () => {
+    setAbout(false)
+    setBlog(true)
+    setContact(false)
+    setShop(false)
+    setHome(false)
+  }
+  const contactSetting = () => {
+    setAbout(false)
+    setBlog(false)
+    setContact(true)
+    setShop(false)
+    setHome(false)
+  }
+  const aboutSetting = () => {
+    setAbout(true)
+    setBlog(false)
+    setContact(false)
+    setShop(false)
+    setHome(false)
+  }
+
+
+
 
   window.addEventListener("scroll", () => {
     if (window.scrollY > 200) {
@@ -61,7 +113,29 @@ const NavItems = () => {
             </div>
             {/* menu area */}
 
-            <div className="menu-area">
+
+                     <div className="menu-area">
+              <div className="menu">
+                <ul className={`lab-ul ${menuToggle ? "active" : ""}`}>
+                  <li>
+                    <Link onClick={homeSetting} className={home ? "active-link" : ''} to="/">Home</Link>
+                  </li>
+                  <li>
+                    <Link onClick={shopSetting} className={shop ? "active-link" : ''} to="/shop">Shop</Link>
+                  </li>
+                  <li>
+                    <Link onClick={blogSetting} className={blog ? "active-link" : ''} to="/blog">Blog</Link>
+                  </li>
+                  <li>
+                    <Link onClick={aboutSetting} className={about ? "active-link" : ''} to="/about">About</Link>
+                  </li>
+                  <li>
+                    <Link onClick={contactSetting} className={contact ? "active-link" : ''} to="/contact">Contact</Link>
+                  </li>
+                </ul>
+              </div>
+
+{/*             <div className="menu-area">
               <div className="menu">
                 <ul className={`lab-ul ${menuToggle ? "active" : ""}`}>
                   <li>
@@ -80,7 +154,7 @@ const NavItems = () => {
                     <Link to="/contact">Contact</Link>
                   </li>
                 </ul>
-              </div>
+              </div> */}
               {/* sign in and log in area */}
 
            
