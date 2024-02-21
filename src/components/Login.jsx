@@ -127,6 +127,9 @@ const Login = () => {
 
                         {/* account bottom */}
                         <div className="account-bottom">
+                            <p>Email: abcd229@gmail.com</p>
+                            <p>Password:12345678</p>
+
                             <span className='d-block cate pt-10'>
                                 Don't Hanve an Account? <Link to={'/sign-up'}>Sign up</Link>
                             </span>
