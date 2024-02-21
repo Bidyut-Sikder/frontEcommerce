@@ -14,22 +14,22 @@ import { Autoplay, Pagination } from 'swiper/modules';
 
 const sponsorList = [
     {
-        imgUrl: "/src/assets/images/sponsor/01.png",
+        imgUrl: "https://github.com/Bidyut-Sikder/frontEcommerce/blob/master/src/assets/images/sponsor/01.png?raw=true",
     },
     {
-        imgUrl: "/src/assets/images/sponsor/02.png",
+        imgUrl: "https://github.com/Bidyut-Sikder/frontEcommerce/blob/master/src/assets/images/sponsor/02.png?raw=true",
     },
     {
-        imgUrl: "/src/assets/images/sponsor/03.png",
+        imgUrl: "https://github.com/Bidyut-Sikder/frontEcommerce/blob/master/src/assets/images/sponsor/03.png?raw=true",
     },
     {
-        imgUrl: "/src/assets/images/sponsor/04.png",
+        imgUrl: "https://github.com/Bidyut-Sikder/frontEcommerce/blob/master/src/assets/images/sponsor/04.png?raw=true",
     },
     {
-        imgUrl: "/src/assets/images/sponsor/05.png",
+        imgUrl: "https://github.com/Bidyut-Sikder/frontEcommerce/blob/master/src/assets/images/sponsor/05.png?raw=true",
     },
     {
-        imgUrl: "/src/assets/images/sponsor/06.png",
+        imgUrl: "https://github.com/Bidyut-Sikder/frontEcommerce/blob/master/src/assets/images/sponsor/06.png?raw=true",
     },
 ];
 
