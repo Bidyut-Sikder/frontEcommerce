@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
 import PageHeader from '../components/PageHeader';
-
+import products from "/src/products.json"
 import { Swiper, SwiperSlide } from 'swiper/react';
 
 // Import Swiper styles
@@ -23,9 +23,9 @@ const SingleProduct = () => {
         (async () => {
             const response = await fetch('/src/products.json')
             const resData = await response.json()
-            setProduct(resData)
-
-            console.log(resData)
+           // setProduct(resData)
+           setProduct(products)
+            //console.log(resData)
         })()
 
     }, [])
