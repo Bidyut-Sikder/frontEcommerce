@@ -7,37 +7,37 @@ const btnText = "Get Started Now";
 
 const categoryList = [
   {
-    imgUrl: "src/assets/images/category/01.jpg",
+    imgUrl: "https://github.com/Bidyut-Sikder/frontEcommerce/blob/master/src/assets/images/category/01.jpg?raw=true",
     imgAlt: "category rajibraj91 rajibraj",
     iconName: "icofont-brand-windows",
     title: "DSLR Camera",
   },
   {
-    imgUrl: "src/assets/images/category/02.jpg",
+    imgUrl: "https://github.com/Bidyut-Sikder/frontEcommerce/blob/master/src/assets/images/category/02.jpg?raw=true",
     imgAlt: "category rajibraj91 rajibraj",
     iconName: "icofont-brand-windows",
     title: "Shoes",
   },
   {
-    imgUrl: "src/assets/images/category/03.jpg",
+    imgUrl: "https://github.com/Bidyut-Sikder/frontEcommerce/blob/master/src/assets/images/category/03.jpg?raw=true",
     imgAlt: "category rajibraj91 rajibraj",
     iconName: "icofont-brand-windows",
     title: "Photography",
   },
   {
-    imgUrl: "src/assets/images/category/04.jpg",
+    imgUrl: "https://github.com/Bidyut-Sikder/frontEcommerce/blob/master/src/assets/images/category/04.jpg?raw=true",
     imgAlt: "category rajibraj91 rajibraj",
     iconName: "icofont-brand-windows",
     title: "Formal Dress",
   },
   {
-    imgUrl: "src/assets/images/category/05.jpg",
+    imgUrl: "https://github.com/Bidyut-Sikder/frontEcommerce/blob/master/src/assets/images/category/05.jpg?raw=true",
     imgAlt: "category rajibraj91 rajibraj",
     iconName: "icofont-brand-windows",
     title: "Colorful Bags",
   },
   {
-    imgUrl: "src/assets/images/category/06.jpg",
+    imgUrl: "https://github.com/Bidyut-Sikder/frontEcommerce/blob/master/src/assets/images/category/06.jpg?raw=true",
     imgAlt: "category rajibraj91 rajibraj",
     iconName: "icofont-brand-windows",
     title: "Home Decor",
