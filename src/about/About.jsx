@@ -15,19 +15,19 @@ const expareance = "Years Of Experiences";
 
 const aboutList = [
     {
-        imgUrl: '/src/assets/images/about/icon/01.jpg',
+        imgUrl: 'https://github.com/Bidyut-Sikder/frontEcommerce/blob/master/src/assets/images/about/icon/01.jpg?raw=true',
         imgAlt: 'about icon rajibraj91 rajibraj',
         title: 'Skilled Instructors',
         desc: 'Distinctively provide acces mutfuncto users whereas communicate leveraged services',
     },
     {
-        imgUrl: '/src/assets/images/about/icon/02.jpg',
+        imgUrl: 'https://github.com/Bidyut-Sikder/frontEcommerce/blob/master/src/assets/images/about/icon/02.jpg?raw=true',
         imgAlt: 'about icon rajibraj91 rajibraj',
         title: 'Get Certificate',
         desc: 'Distinctively provide acces mutfuncto users whereas communicate leveraged services',
     },
     {
-        imgUrl: '/src/assets/images/about/icon/03.jpg',
+        imgUrl: 'https://github.com/Bidyut-Sikder/frontEcommerce/blob/master/src/assets/images/about/icon/03.jpg?raw=true',
         imgAlt: 'about icon rajibraj91 rajibraj',
         title: 'Online Classes',
         desc: 'Distinctively provide acces mutfuncto users whereas communicate leveraged services',
