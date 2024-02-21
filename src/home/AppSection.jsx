@@ -18,8 +18,8 @@ const AppSection = () => {
 
                 <div className="section-wrapper">
                     <ul className="lab-ul">
-                        <li><a href=""><img src={"/src/assets/images/app/01.jpg"} alt="" /></a></li>
-                        <li><a href=""><img src={"/src/assets/images/app/02.jpg"} alt="" /></a></li>
+                        <li><a href=""><img src={"https://github.com/Bidyut-Sikder/frontEcommerce/blob/master/src/assets/images/app/01.jpg?raw=true"} alt="" /></a></li>
+                        <li><a href=""><img src={"https://github.com/Bidyut-Sikder/frontEcommerce/blob/master/src/assets/images/app/02.jpg?raw=true"} alt="" /></a></li>
 
                     </ul>
                 </div>
