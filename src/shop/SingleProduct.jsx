@@ -16,8 +16,8 @@ import Tags from './Tags';
 
 const SingleProduct = () => {
     const { id } = useParams()
-    const [product, setProduct] = useState([])
-
+   // const [product, setProduct] = useState([])
+  const [product, setProduct] = useState(products)
     useEffect(() => {
 
         (async () => {
