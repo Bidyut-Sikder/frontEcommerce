@@ -53,7 +53,7 @@ const About = () => {
                                     <img src="https://github.com/Bidyut-Sikder/frontEcommerce/blob/master/src/assets/images/about/01.jpg?raw=true" alt="bidyut" />
                                 </div>
                                 <div className="abs-thumb">
-                                    <img src="https://github.com/Bidyut-Sikder/frontEcommerce/blob/master/src/assets/images/about/03.jpg?raw=true" alt="bidyut" />
+                                    <img src="https://github.com/Bidyut-Sikder/frontEcommerce/blob/master/src/assets/images/about/02.jpg?raw=true" alt="bidyut" />
                                 </div>
 
                                 <div className="about-left-content">
