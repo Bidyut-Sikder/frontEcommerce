@@ -9,37 +9,37 @@ const desc = "Buy products on your any device with our app & enjoy your time wha
 
 const clientsList = [
     {
-        imgUrl: '/src/assets/images/clients/avater.jpg',
+        imgUrl: 'https://github.com/Bidyut-Sikder/frontEcommerce/blob/master/src/assets/images/clients/avater.jpg?raw=true',
         imgAlt: 'education thumb rajibraj91 rajibraj',
         text: 'Join with Us',
     },
     {
-        imgUrl: '/src/assets/images/clients/avater.jpg',
+        imgUrl: 'https://github.com/Bidyut-Sikder/frontEcommerce/blob/master/src/assets/images/clients/avater.jpg?raw=true',
         imgAlt: 'education thumb rajibraj91 rajibraj',
         text: 'Join with Us',
     },
     {
-        imgUrl: '/src/assets/images/clients/avater.jpg',
+        imgUrl: 'https://github.com/Bidyut-Sikder/frontEcommerce/blob/master/src/assets/images/clients/avater.jpg?raw=true',
         imgAlt: 'education thumb rajibraj91 rajibraj',
         text: 'Join with Us',
     },
     {
-        imgUrl: '/src/assets/images/clients/avater.jpg',
+        imgUrl: 'https://github.com/Bidyut-Sikder/frontEcommerce/blob/master/src/assets/images/clients/avater.jpg?raw=true',
         imgAlt: 'education thumb rajibraj91 rajibraj',
         text: 'Join with Us',
     },
     {
-        imgUrl: '/src/assets/images/clients/avater.jpg',
+        imgUrl: 'https://github.com/Bidyut-Sikder/frontEcommerce/blob/master/src/assets/images/clients/avater.jpg?raw=true',
         imgAlt: 'education thumb rajibraj91 rajibraj',
         text: 'Join with Us from Africa',
     },
     {
-        imgUrl: '/src/assets/images/clients/avater.jpg',
+        imgUrl: 'https://github.com/Bidyut-Sikder/frontEcommerce/blob/master/src/assets/images/clients/avater.jpg?raw=true',
         imgAlt: 'education thumb rajibraj91 rajibraj',
         text: 'Join with Us',
     },
     {
-        imgUrl: '/src/assets/images/clients/avater.jpg',
+        imgUrl: 'https://github.com/Bidyut-Sikder/frontEcommerce/blob/master/src/assets/images/clients/avater.jpg?raw=true',
         imgAlt: 'education thumb rajibraj91 rajibraj',
         text: 'Join with Us',
     },
