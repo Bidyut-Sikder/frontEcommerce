@@ -68,7 +68,7 @@ const AboutUs = () => {
                         </div>
                         <div className="col">
                             <div className="instructor-thunb">
-                                <img src="/src/assets/images/instructor/01.png" alt="" />
+                                <img src="https://github.com/Bidyut-Sikder/frontEcommerce/blob/master/src/assets/images/instructor/01.png?raw=true" alt="" />
                             </div>
                         </div>
                     </div>
